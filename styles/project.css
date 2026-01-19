@@ -61,6 +61,7 @@ nav .link{
     width: 1600px;
     background-position: center;
     background-size: cover;
+    
      
 }
 .notes{
@@ -108,7 +109,7 @@ nav .link{
 }
 .solution {
     flex: 1;
-    /* position: relative; */
+    position: relative;
     display: flex;
     background-color: white;
     border-radius: 12px;
